@@ -7,3 +7,5 @@
 
 - With this data preprocessing application, users can efficiently handle duplicate values, identify and handle missing data, and perform various data manipulation tasks. By automating these processes, it accelerates the data preprocessing phase and enables users to focus more on building robust machine learning models.
 ### here are some image of the application 
+![Capture22](https://github.com/SoufiyaneOuali/Data_Quality_App/assets/133426598/0c9a5eb3-90aa-4cfa-9aed-40738a815a01)
+
