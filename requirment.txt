@@ -1,0 +1,14 @@
+### To execute the code you provided, you need the following requirements:
+
+Python: Make sure you have Python installed on your system.
+
+Libraries: You need to have the following libraries installed:
+
+pandas: Install using pip install pandas
+numpy: Install using pip install numpy
+tkinter: It comes pre-installed with Python, no additional installation required.
+matplotlib: Install using pip install matplotlib
+sklearn: Install using pip install scikit-learn
+Data Files: Ensure that you have the required data files in the appropriate format accessible to the code.
+
+Once you have the above requirements fulfilled, you should be able to execute the code successfully.
